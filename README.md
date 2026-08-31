@@ -9,6 +9,14 @@ The team's project is comprised of 2 application.
 
 In the `starter` folder, you'll find 2 folders, one named `frontend` and one named `backend`, where each application's source code is maintained. Your job is to use the team's [existing documentation](./starter/frontend/frontend-development-notes) and create CI/CD pipelines to meet the teams' needs.
 
+
+## CI/CD Status
+| Aspect               | Continuous Integration                                                                                                     | Continuous Deployment                                                                                                    |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Backend**          | [![Backend Continuous Integration](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/backend-ci.yml)  | [![Backend Continuous Deployment](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/backend-cd.yml/badge.svg)](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/backend-cd.yml) |
+| **Frontend**         | [![Frontend Continuous Integration](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/frontend-ci.yml)| [![Frontend Continuous Deployment](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/frontend-cd.yml/badge.svg)](https://github.com/alankrit98/movie-picture-pipeline/actions/workflows/frontend-cd.yml)|
+
+
 ## Deliverables
 
 ### Frontend
